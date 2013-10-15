@@ -1,0 +1,2 @@
+root ALL = (ALL) ALL
+benatespina ALL = (ALL) ALL, NOPASSWD: /usr/sbin/apachectl
