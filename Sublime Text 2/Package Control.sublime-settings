@@ -1,0 +1,37 @@
+{
+	"installed_packages":
+	[
+		"Alignment",
+		"BracketHighlighter",
+		"CoffeeScript",
+		"ColorPicker",
+		"CSS Media Query Snippets",
+		"CSS Snippets",
+		"Djaneiro",
+		"DocBlockr",
+		"Emmet",
+		"Gist",
+		"GitGutter",
+		"GitHubinator",
+		"HTML Mustache",
+		"HTML Snippets",
+		"Jade",
+		"Jade Snippets",
+		"JavaScript & NodeJS Snippets",
+		"JS Snippets",
+		"JSLint",
+		"LiveStyle",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Package Control",
+		"Prefixr",
+		"Sass",
+		"SASS Snippets",
+		"SideBarEnhancements",
+		"Stylus",
+		"SublimeLinter",
+		"Symfony2 Snippets",
+		"Theme - Flatland",
+		"Twig"
+	]
+}

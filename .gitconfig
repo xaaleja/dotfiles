@@ -1,0 +1,14 @@
+[user]
+    name = benatespina
+    email = benatespina@gmail.com
+[credential]
+    helper = osxkeychain
+[alias]
+    st = status
+    ci = commit
+    br = branch
+    co = checkout
+    df = diff
+    lg = log -p
+[core]
+    editor = subl -n -w
