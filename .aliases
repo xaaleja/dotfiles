@@ -25,8 +25,8 @@ alias startproject='django-admin.py startproject'
 alias runserver='python manage.py runserver'
 
 #MongoDB
-alias mongostart='launchctl load -w /usr/local/Cellar/mongodb/2.4.6/homebrew.mxcl.mongodb.plist'
-alias mongostop='launchctl unload -w /usr/local/Cellar/mongodb/2.4.6/homebrew.mxcl.mongodb.plist'
+alias mongostart='launchctl start homebrew.mxcl.mongodb'
+alias mongostop='launchctl stop homebrew.mxcl.mongodb'
 
 #Virtualenv
 alias activate='source bin/activate'
