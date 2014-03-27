@@ -1,2 +1,2 @@
 root ALL = (ALL) ALL
-benatespina ALL = (ALL) ALL, NOPASSWD: /usr/sbin/apachectl
+benatespina ALL = (ALL) ALL, NOPASSWD: /usr/sbin/apachectl, /usr/local/bin/nginx
